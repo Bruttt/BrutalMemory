@@ -21,7 +21,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/BrutalMemory.git
+    git clone https://github.com/Bruttt/BrutalMemory.git
     ```
 
 2. Add the `Memory.cs` file to your C# project.
