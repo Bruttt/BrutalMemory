@@ -54,7 +54,7 @@ namespace BrutalMemory
             public byte[] mask { get; set; }
         }
 
-        public struct memorypage
+        public struct MemoryPage
         {
             public IntPtr Start;
 
